@@ -19,7 +19,7 @@ public class p5 {
 		for(int i=0; i<n; i++) {
 			
 			arr[i]= Integer.parseInt(br.readLine());
-			arr1[arr[i]]++;
+			
 		}
 		
 		for(int i=1; i<10001; i++) {
